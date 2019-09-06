@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1567727363 source:c:\users\balde\desktop\trabajo practico v2.1\calculator.c
+
+1567727333 source:c:\users\balde\desktop\trabajo practico v2.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<math.h>
+	"calculator.h"
+
+1567711659 c:\users\balde\desktop\trabajo practico v2.1\calculator.h
+
